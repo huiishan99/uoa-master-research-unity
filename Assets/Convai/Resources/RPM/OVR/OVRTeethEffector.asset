@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d464fb2d5c4b959eb83e0010e7b3a8, type: 3}
+  m_Name: OVRTeethEffector
+  m_EditorClassIdentifier: 
+  sil:
+  - index: 0
+    effectPercentage: 1
+  pp:
+  - index: 1
+    effectPercentage: 1
+  ff:
+  - index: 2
+    effectPercentage: 1
+  th:
+  - index: 3
+    effectPercentage: 1
+  dd:
+  - index: 4
+    effectPercentage: 1
+  kk:
+  - index: 5
+    effectPercentage: 1
+  ch:
+  - index: 6
+    effectPercentage: 1
+  ss:
+  - index: 7
+    effectPercentage: 1
+  nn:
+  - index: 8
+    effectPercentage: 1
+  rr:
+  - index: 9
+    effectPercentage: 1
+  aa:
+  - index: 10
+    effectPercentage: 1
+  e:
+  - index: 11
+    effectPercentage: 1
+  ih:
+  - index: 12
+    effectPercentage: 1
+  oh:
+  - index: 13
+    effectPercentage: 1
+  ou:
+  - index: 14
+    effectPercentage: 1

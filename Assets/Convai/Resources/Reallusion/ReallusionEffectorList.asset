@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d464fb2d5c4b959eb83e0010e7b3a8, type: 3}
+  m_Name: ReallusionEffectorList
+  m_EditorClassIdentifier: 
+  sil: []
+  pp:
+  - index: 1
+    effectPercentage: 1
+  ff:
+  - index: 2
+    effectPercentage: 1
+  th:
+  - index: 116
+    effectPercentage: 0.5
+  - index: 7
+    effectPercentage: 0.5
+  dd:
+  - index: 116
+    effectPercentage: 0.2
+  - index: 114
+    effectPercentage: 0.5
+  kk:
+  - index: 116
+    effectPercentage: 0.5
+  - index: 114
+    effectPercentage: 1
+  ch:
+  - index: 116
+    effectPercentage: 0.7
+  - index: 114
+    effectPercentage: 1
+  - index: 7
+    effectPercentage: 1
+  ss:
+  - index: 116
+    effectPercentage: 0.5
+  - index: 114
+    effectPercentage: 1
+  nn:
+  - index: 116
+    effectPercentage: 0.5
+  - index: 114
+    effectPercentage: 0.5
+  - index: 7
+    effectPercentage: 1
+  rr:
+  - index: 7
+    effectPercentage: 0.4
+  - index: 114
+    effectPercentage: 0.5
+  aa:
+  - index: 114
+    effectPercentage: 1
+  - index: 0
+    effectPercentage: 1
+  e:
+  - index: 116
+    effectPercentage: 0.7
+  - index: 114
+    effectPercentage: 0.3
+  ih:
+  - index: 116
+    effectPercentage: 0.7
+  - index: 114
+    effectPercentage: 0.5
+  oh:
+  - index: 3
+    effectPercentage: 0.9
+  ou:
+  - index: 3
+    effectPercentage: 1

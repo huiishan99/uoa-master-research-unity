@@ -1,0 +1,92 @@
+{
+    "name": "Cognitive3DEditor",
+    "rootNamespace": "",
+    "references": [
+        "Cognitive3D",
+        "Unity.XR.OpenVR",
+        "SteamVR",
+        "Oculus.VR",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "GliaAssembly",
+        "GliaEditorAssembly",
+        "Wave.Native",
+        "Wave.Essence",
+        "UnityEngine.SpatialTracking",
+        "SteamVR_Input_Editor",
+        "SteamVR_Actions",
+        "Oculus.VR.Editor",
+        "PhotonUnityNetworking",
+        "Unity.TextMeshPro",
+        "UnityEngine.XR.LegacyInputHelpers",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.OpenXR",
+        "Unity.XR.OpenXR.Features.MetaQuestSupport",
+        "Unity.XR.PICO",
+        "Unity.XR.PicoXR",
+        "meta.xr.mrutilitykit",
+        "Unity.Netcode.Runtime",
+        "Normal.Realtime.Shared"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "C3D_HDRP"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "",
+            "define": "C3D_TMPRO"
+        },
+        {
+            "name": "com.unity.xr.core-utils",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_COREUTILITIES"
+        },
+        {
+            "name": "com.unity.xr.legacyinputhelpers",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_LEGACYINPUTHELPERS"
+        },
+        {
+            "name": "com.unity.xr.openxr",
+            "expression": "1.9.1",
+            "define": "COGNITIVE3D_INCLUDE_OPENXR_1_9_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.openxr",
+            "expression": "[1.8.1,1.8.2]",
+            "define": "COGNITIVE3D_INCLUDE_OPENXR_1_8_1_OR_1_8_2"
+        },
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "65.0.0",
+            "define": "COGNITIVE3D_INCLUDE_META_CORE_65_OR_NEWER"
+        },
+        {
+            "name": "com.meta.xr.mrutilitykit",
+            "expression": "65.0.0",
+            "define": "COGNITIVE3D_INCLUDE_META_XR_UTILITY"
+        },
+        {
+            "name": "com.unity.netcode.gameobjects",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_UNITY_NETCODE"
+        },
+        {
+            "name": "com.normalvr.normcore",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_NORMCORE"
+        }
+    ],
+    "noEngineReferences": false
+}

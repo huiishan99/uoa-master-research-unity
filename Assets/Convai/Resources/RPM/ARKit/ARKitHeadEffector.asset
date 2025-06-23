@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d464fb2d5c4b959eb83e0010e7b3a8, type: 3}
+  m_Name: ARKitHeadEffector
+  m_EditorClassIdentifier: 
+  sil: []
+  pp:
+  - index: 29
+    effectPercentage: 1
+  ff:
+  - index: 51
+    effectPercentage: 1
+  th:
+  - index: 34
+    effectPercentage: 1
+  - index: 35
+    effectPercentage: 1
+  dd:
+  - index: 58
+    effectPercentage: 1.428571
+  - index: 59
+    effectPercentage: 1.428571
+  kk:
+  - index: 49
+    effectPercentage: 1
+  ch:
+  - index: 54
+    effectPercentage: 0.3703704
+  - index: 55
+    effectPercentage: 0.3703704
+  ss:
+  - index: 62
+    effectPercentage: 0.6666667
+  - index: 63
+    effectPercentage: 0.6666667
+  nn:
+  - index: 32
+    effectPercentage: 0.5
+  - index: 33
+    effectPercentage: 0.5
+  rr:
+  - index: 56
+    effectPercentage: 1.111111
+  - index: 57
+    effectPercentage: 1.111111
+  aa:
+  - index: 49
+    effectPercentage: 0.5
+  e:
+  - index: 60
+    effectPercentage: 1
+  - index: 61
+    effectPercentage: 1
+  ih:
+  - index: 27
+    effectPercentage: 0.8333333
+  - index: 28
+    effectPercentage: 0.8333333
+  oh:
+  - index: 51
+    effectPercentage: 1.2
+  ou:
+  - index: 29
+    effectPercentage: 1

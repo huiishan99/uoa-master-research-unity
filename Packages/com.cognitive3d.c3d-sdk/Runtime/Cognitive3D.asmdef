@@ -1,0 +1,80 @@
+{
+    "name": "Cognitive3D",
+    "rootNamespace": "",
+    "references": [
+        "SteamVR",
+        "Unity.XR.OpenVR",
+        "Varjo.XR",
+        "Oculus.VR",
+        "Oculus.Platform",
+        "GliaAssembly",
+        "SRAnipalAssembly",
+        "Wave.Essence",
+        "Wave.XRSDK",
+        "Wave.Native",
+        "XRPF",
+        "Microsoft.MixedReality.Toolkit",
+        "Unity.XR.Management",
+        "Unity.XR.PICO",
+        "Unity.XR.Oculus",
+        "Normal.Realtime.Shared",
+        "Unity.XR.CoreUtils",
+        "UnityEngine.XR.LegacyInputHelpers",
+        "Unity.XR.PicoXR",
+        "PhotonUnityNetworking",
+        "PhotonRealtime",
+        "meta.xr.mrutilitykit",
+        "Unity.Netcode.Runtime",
+        "Unity.XR.Hands"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.xrpf.privacyframework",
+            "expression": "",
+            "define": "XRPF"
+        },
+        {
+            "name": "com.unity.xr.core-utils",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_COREUTILITIES"
+        },
+        {
+            "name": "com.unity.xr.legacyinputhelpers",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_LEGACYINPUTHELPERS"
+        },
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "65.0.0",
+            "define": "COGNITIVE3D_INCLUDE_META_CORE_65_OR_NEWER"
+        },
+        {
+            "name": "com.meta.xr.mrutilitykit",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_META_XR_UTILITY"
+        },
+        {
+            "name": "com.unity.netcode.gameobjects",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_UNITY_NETCODE"
+        },
+        {
+            "name": "com.normalvr.normcore",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_NORMCORE"
+        },
+        {
+            "name": "com.unity.xr.hands",
+            "expression": "",
+            "define": "COGNITIVE3D_INCLUDE_XR_HANDS"
+        }
+    ],
+    "noEngineReferences": false
+}
