@@ -75,5 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/*
 
 # Ignore AWS credentials script
-Assets/Scripts/TextToSpeechOpenAI.cs
-Assets/Scripts/TextToSpeechOpenAI.cs.meta
+Assets/StreamingAssets/aws_credentials.json
