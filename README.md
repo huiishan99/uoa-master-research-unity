@@ -10,17 +10,17 @@ For Unity:
 
 Assets/StreamingAssets/aws_credentials.json
 
-``
+```
 {
   "awsAccessKey": "Your Access Key",
   "awsSecretKey": "Your Secret Key"
 }
-``
+```
 
 For Python:
 
 .env
-``
+```
 OPENAI_API_KEY= Your OpenAI Key
 GOOGLE_APPLICATION_CREDENTIALS=unity-tts-stt-cfeXXXXXdXbc.json
-``
+```
