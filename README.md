@@ -1,5 +1,7 @@
 The unity project of my master's thesis at University of Aizu, including the python backend code.
 
+I will renew this README.md for adding more information at the future, if you have any question, feel free to ask in the `Issues`!
+
 ## Requirements
 
 - Unity 2022.3
