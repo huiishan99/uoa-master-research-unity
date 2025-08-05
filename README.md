@@ -26,6 +26,7 @@ I will renew this README.md for adding more information at the future, if you ha
 - `.env` file
 ```
 OPENAI_API_KEY= Your OpenAI Key
+ASSISTANT_ID= Your OpenAI Assistant ID
 GOOGLE_APPLICATION_CREDENTIALS=unity-tts-stt-cfeXXXXXdXbc.json
 ```
 
