@@ -19,7 +19,7 @@ I will renew this README.md for adding more information at the future, if you ha
       "awsSecretKey": "Your Secret Key"
     }
     ```
-2. Whisper Model Dowmload: [Hugging Face Link](https://huggingface.co/ggerganov/whisper.cpp/tree/main). I used `ggml-base.en.bin` in this project.
+2. Whisper Model Download: [Hugging Face: ggerganov/whisper.cpp](https://huggingface.co/ggerganov/whisper.cpp/tree/main). I used `ggml-base.en.bin`(148 MB) in this project.
 
 ### For Python:
 
